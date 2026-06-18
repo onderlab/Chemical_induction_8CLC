@@ -40,11 +40,12 @@ adapted to your local environment before running.
 │   └── 06_alternative_normalizations/
 │
 ├── 03_scRNA-seq/
-│   ├── 01_embryo_atlas_integration_and_mapping.R/
+│   ├── 01_/
 │   ├── 02_clustering_equalized_DMSO_PRBJN.R/
 │   ├── 03_8CLC_geneset_cluster_heatmap.R/
 │   ├── 04_multigene_UMAP_featureplots_dotplot.R/
-│   ├── 05_violinplot_ZGA_genes.R/
+│   ├── 05_violinplot_ZGA_genes.Rembryo_atlas_integration_and_mapping.R/
+│   ├── 06_embryo_atlas_integration_and_mapping.R/
 ```
 
 ---
